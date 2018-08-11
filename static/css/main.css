@@ -31,9 +31,10 @@ code {
 }
 
 code {
+  font-family: 'FiraCode Medium', monospace;
   border-radius: 3px;
   padding: 1px 3px;
-  background: #fffee1;
+  background: #e6e8ea;
   -webkit-hyphens: none;
   hyphens: none;
 }
